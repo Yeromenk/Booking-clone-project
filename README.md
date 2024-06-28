@@ -24,14 +24,14 @@ What things you need to install the software and how to install them:
 
 A step by step series of examples that tell you how to get a development environment running:
 
-1. Clone the repository: git clone https://github.com/Yeromenk/Booking-clone-project.git
-2. Install the dependencies for the backend: cd backend && npm install
-3. Install the dependencies for the frontend: cd frontend && npm install
+1. Clone the repository: git clone `https://github.com/Yeromenk/Booking-clone-project.git`
+2. Install the dependencies for the backend: `cd backend && npm install`
+3. Install the dependencies for the frontend: `cd frontend && npm install`
 ---
 ###   Running the Application
-1. Start the backend server: cd ../backend && npm start
-2. In a new terminal, start the frontend server: cd ../frontend && npm start
-3. Open your web browser and navigate to http://localhost:3000
+1. Start the backend server: `cd ../backend && npm start`
+2. In a new terminal, start the frontend server: `cd ../frontend && npm start`
+3. Open your web browser and navigate to `http://localhost:3000`
 
 ---
 ## Built With
